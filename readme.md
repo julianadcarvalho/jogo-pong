@@ -1,2 +1,2 @@
 # JogoPong 
-Jogo pong em JavaScritp, para um jogador 
+Jogo pong em JavaScript, para um jogador 
